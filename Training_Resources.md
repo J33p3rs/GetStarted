@@ -28,5 +28,6 @@ LinkedIn Learning | Identifying PII | https://www.lynda.com/IT-Infrastructure-tu
 LinkedIn Learning | Malware Analysis | https://www.linkedin.com/learning/ethical-hacking-the-complete-malware-analysis-process/types-of-malware?u=2104756
 YouTube | Cisco How to Threat Hunt | https://www.youtube.com/playlist?list=PLmuBTVjNfV0c1U2xwLjJAcineHvYXqraE
 Splunk | Splunk Fundamentals 1 (Splunk is used for logging and event correlation, as well as incident management and a lot of other things) | https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html
+AWS | AWS Cloud Practitioner Essentials | https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials
 NIST | 800-62 Incident Handling | https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf
 NIST | 800-53 Controls | https://nvd.nist.gov/800-53
