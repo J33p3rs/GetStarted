@@ -31,3 +31,5 @@ Splunk | Splunk Fundamentals 1 (Splunk is used for logging and event correlation
 AWS | AWS Cloud Practitioner Essentials | https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials
 NIST | 800-62 Incident Handling | https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf
 NIST | 800-53 Controls | https://nvd.nist.gov/800-53
+
+This twitter thread also has some good resources: https://twitter.com/joehelle/status/1501370349782548485?s=11
