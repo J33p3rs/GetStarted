@@ -1,11 +1,15 @@
 ## Your Library
-Some libraries provide members with free access to LinkedIn Learning (Formerly Lynda). 
+Some libraries provide members with free access to LinkedIn Learning (Formerly Lynda).
+* https://www.slq.qld.gov.au/research-collections/information-collections/eresources/linkedin-learning
+* https://www.tr.qld.gov.au/facilities-recreation/libraries/libraryprograms/12065-online-training-courses
 
 ## YouTube
 There is a heap of content on YouTube. All different levels of quality.
 
 ## Vendors
-Many vendors will provide some free introductory courses. 
+Many vendors will provide some free introductory courses.
+* https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html
+* https://lookbook.tenable.com/automated-web-app-scanning/tenable-university?xs=45505
 
 ## TAFE
 TAFE's will often provide *Micro Credentials* such as Cyber Security Essentials, and sometimes will provide heavily reduced courses for students that meet certain criteria.
