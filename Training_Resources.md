@@ -37,3 +37,8 @@ NIST | 800-62 Incident Handling | https://nvlpubs.nist.gov/nistpubs/SpecialPubli
 NIST | 800-53 Controls | https://nvd.nist.gov/800-53
 
 This twitter thread also has some good resources: https://twitter.com/joehelle/status/1501370349782548485?s=11
+
+## Platforms
+Provider | Description | URL
+---|---|--- 
+LetsDefend | Let's defend is a training platform for SOC Analysts and Incident Responders and offers a selection of training for free | https://letsdefend.io/
