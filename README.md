@@ -5,7 +5,13 @@ The resources in this repo outline some of the key knowledge areas across InfoSe
 
 If you think there are resources that need to be added, or that could be replaced with a better resource feel free to let me know.
 
-Other resources:
+## Resources
+| Title / Description | Link|
+| --- | --- |
+| Training resources | [Training_Resources.md](./Training_Resources.md)
+| Pop culture resources | [Infosec_Pop_Culture.md](./InfoSec_Pop_Culture.md)
+
+## Other resources:
 | Title / Description | Link|
 | --- | --- |
 | Hakluke’s huge list of resources for beginner hackers |  https://labs.detectify.com/2021/08/24/hakluke-list-resources-for-beginner-hackers-2021/|
