@@ -17,7 +17,7 @@ TAFE's will often provide *Micro Credentials* such as Cyber Security Essentials,
 * QLD https://tafeqld.edu.au/micro-credentials
 
 ## Frameworks
-There are many information security frameworks that are freely available to read. They might be a bit dry but many organisations will sue these to guide thier security program, or may even have a requirement to comply with the framework. 
+There are many information security frameworks that are freely available to read. They might be a bit dry but many organisations will use these to guide thier security program, or may even have a requirement to comply with the framework. 
 * NIST https://www.nist.gov/cyberframework
 * Essential Eight https://www.cyber.gov.au/acsc/view-all-content/publications/essential-eight-maturity-model
 
