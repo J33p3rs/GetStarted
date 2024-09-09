@@ -17,4 +17,4 @@ If you think there are resources that need to be added, or that could be replace
 | Hakluke’s huge list of resources for beginner hackers |  https://labs.detectify.com/2021/08/24/hakluke-list-resources-for-beginner-hackers-2021/|
 | Brian Krebs' (who is a leading cyber security researcher / journalist) opinion on getting into the infosec field | https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/
 | Decipher Bureau are an Australian infosec recruiter. | <ul><li>https://www.linkedin.com/posts/sean-williamson-_decipher-bureaus-tips-for-breaking-into-activity-7085021850644168704-QmYK <li>https://www.youtube.com/watch?v=XXomull-_DQ&t=15s  |
-| Cybersec Careers Discord | Discord channel with career discussions, such as how to get into the industry and how to find a job etc. | https://discord.com/invite/zRQ6nPZPzc |
+| Cybersec Careers Discord - Discord channel with career discussions, such as how to get into the industry and how to find a job etc. | https://discord.com/invite/zRQ6nPZPzc |
