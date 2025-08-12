@@ -5,7 +5,9 @@ The resources in this repo outline some of the key knowledge areas across InfoSe
 
 If you think there are resources that need to be added, or that could be replaced with a better resource feel free to let me know.
 
-## Resources
+## Resources - Start here
+The following link through to pages which have longer lists of resources. I recommended starting with the  [Training_Resources.md](./Training_Resources.md) page and exploring other resources as needed. 
+
 | Title / Description | Link|
 | --- | --- |
 | Training resources | [Training_Resources.md](./Training_Resources.md)
