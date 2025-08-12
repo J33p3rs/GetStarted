@@ -1,4 +1,7 @@
-Honeypot / Canary
-Pi-Hole
-Firewall / IPS
-Scripts – scanners and analysers
+
+| | | 
+| --- | --- |
+| Honeypot / Canary ||
+|Pi-Hole | pi-zero-w-pihole.md |
+| Firewall / IPS | |
+| Scripts – scanners and analysers | |
