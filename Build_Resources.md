@@ -1,11 +1,4 @@
 
-| | | 
-| --- | --- |
-| Honeypot / Canary ||
-|Pi-Hole | pi-zero-w-pihole.md |
-| Firewall / IPS | |
-| Scripts – scanners and analysers | |
-
 | Project Area              | Project Name / Resource                                                                 | Description                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 
@@ -17,6 +10,7 @@
 
 
 <!--
+
 The following are untested
 
 | Firewall / IPS             | [IPFire (Linux distro)](https://www.ipfire.org/)                                       | Open-source firewall distro offering stateful packet inspection, IDS/IPS modules, VPN, web UI—ideal for learning and deployment :contentReference[oaicite:3]{index=3}. |
