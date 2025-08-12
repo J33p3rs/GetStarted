@@ -1,7 +1,6 @@
 
 | Project Area              | Project Name / Resource                                                                 | Description                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-
 | Honeypot / Canary         | [Cowrie Honeypot](https://www.cowrie.org/)                                             | A widely used, medium-interaction SSH/Telnet honeypot that logs attacker behaviour for analysis |
 | Web filtering and DNS defence | [Pi-Hole](pi-zero-w-pihole.md) | Used for blocking malicious DNS, ads, and other web filtering on a Raspberry Pi. |
 
