@@ -16,6 +16,10 @@ Many vendors will provide some free introductory courses.
 TAFE's will often provide *Micro Credentials* such as Cyber Security Essentials, and sometimes will provide heavily reduced courses for students that meet certain criteria.
 * QLD https://tafeqld.edu.au/micro-credentials
 
+## University
+The following are some free university short courses
+* https://itmasters.edu.au/free-university-short-courses/
+
 ## Frameworks
 There are many information security frameworks that are freely available to read. They might be a bit dry but many organisations will use these to guide thier security program, or may even have a requirement to comply with the framework. 
 * NIST https://www.nist.gov/cyberframework
