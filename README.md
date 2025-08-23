@@ -13,6 +13,7 @@ The following link through to pages which have longer lists of resources. I reco
 | **Training resources** | [Training_Resources.md](./Training_Resources.md) |
 | **Conferences and Meetups** <ul><li> A great way to meet peopole in the industry and learn from experienced practitioners.|  [Conferences_and_Meetups.md](./Conferences_and_Meetups.md) |
 | **Build Resources** <ul><li> Building something gives you a good way to get hands on experience with technology. |  [Build_Resources.md](./Build_Resources.md) |
+| **Recorded Events** <ul><li> A list of local events that are available as recordings | [Recorded Events.md](./Recorded_Events.md)
 | **Pop culture resources** <ul><li> Learn where cyber security has come from, and where it is going | [Infosec_Pop_Culture.md](./InfoSec_Pop_Culture.md) || 
 
 ## Other resources:
