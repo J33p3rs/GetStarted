@@ -3,7 +3,7 @@
 |---------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | Honeypot / Canary         | [Cowrie Honeypot](https://www.cowrie.org/)                                             | A widely used, medium-interaction SSH/Telnet honeypot that logs attacker behaviour for analysis |
 | Web filtering and DNS defence | [Pi-Hole](pi-zero-w-pihole.md) | Used for blocking malicious DNS, ads, and other web filtering on a Raspberry Pi. |
-| Security script | Build a python script to perfrom a security task | You could do something like: <ul><li> Configuring a firewall or router <li> Checking for lookalike phishing domains|
+| Security script | Build a python script to perfrom a security task | You could do something like: <ul><li> Configuring a firewall or router <li> Checking for lookalike phishing domains <li> Perfrom basic recon such as geolocation, whois look up etc.|
 
 
 
