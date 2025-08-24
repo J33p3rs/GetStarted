@@ -13,6 +13,7 @@ Many vendors will provide some free introductory courses.
 * https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html
 * https://lookbook.tenable.com/automated-web-app-scanning/tenable-university?xs=45505
 * https://www.qualys.com/training/
+* https://www.offsec.com/courses/pen-103/
 
 If you haven't got any experience working in IT, it is good to get some general IT training under your belt first, like AWS and Azure.
 
