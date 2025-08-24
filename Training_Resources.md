@@ -8,9 +8,13 @@ There is a heap of content on YouTube. All different levels of quality.
 
 ## Vendors
 Many vendors will provide some free introductory courses.
+* https://learn.microsoft.com/en-us/training/azure/
+* https://aws.amazon.com/training/
 * https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html
 * https://lookbook.tenable.com/automated-web-app-scanning/tenable-university?xs=45505
 * https://www.qualys.com/training/
+
+If you haven't got any experience working in IT, it is good to get some general IT training under your belt first, like AWS and Azure.
 
 ## TAFE
 TAFE's will often provide *Micro Credentials* such as Cyber Security Essentials, and sometimes will provide heavily reduced courses for students that meet certain criteria.
